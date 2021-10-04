@@ -1,3 +1,5 @@
+> **AN UPDATE BEFORE YOU PROCEED.** This is no longer continued and may be ported over to Python.
+
 # ClockworkShortcuts
 Shortcuts I made so you can play and I can create. I normally publish new shortcuts you can use when I am bored. The category of shortcuts I will be mostly making at this time are story/game shortcuts.
 
